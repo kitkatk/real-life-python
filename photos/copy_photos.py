@@ -11,7 +11,7 @@ def copy_files_by_name(source_dir: str, subset_def_dir: str, output_dir: str):
     - You found out the album would be too large.
     - Now want to create the same subset of the low quality photos.
 
-    This scripts selects files from a folder that have the same filenames as files in another folder.
+    This script selects files from a folder that have the same filenames as files in another folder.
 
     :param source_dir: directory containing all photos
     :param subset_def_dir: directory containing the subset you already created
